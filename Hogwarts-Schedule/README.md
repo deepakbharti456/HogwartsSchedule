@@ -1,0 +1,1 @@
+This project is based on local mock data only.
